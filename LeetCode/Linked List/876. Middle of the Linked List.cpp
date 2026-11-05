@@ -29,4 +29,4 @@ public:
 };
 
 //cach 1: duyet toan bo roi quay lai, toc do O(N)
-//cach 2: thuat toan rua va tho (2 con tro nhanh va cham)
+//cach 2: thuat toan rua va tho (2 con tro nhanh va cham), slow = 1, fast = 2
