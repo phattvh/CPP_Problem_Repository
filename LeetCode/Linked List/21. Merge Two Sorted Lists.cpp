@@ -36,3 +36,5 @@ public:
         return dummy->next;
     }
 };
+
+//tao 1 listnode moi, cai nao nho hon thi add vao truoc, phan con du thi add vao duoi
