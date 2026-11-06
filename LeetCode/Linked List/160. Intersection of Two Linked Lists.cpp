@@ -1,3 +1,7 @@
+//Author: Phat Tran
+//All my info: https://phattvh.is-not-a.dev
+
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
