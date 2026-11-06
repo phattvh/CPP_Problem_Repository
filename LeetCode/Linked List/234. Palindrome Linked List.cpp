@@ -48,4 +48,4 @@ public:
     }
 };
 
-//dung 2 con tro (slow-fast) tim chinh giua, sau do tu chinh giua dung them 1 con tro de reverse lai, roi dung start va prev de so sanh trai-phai
+//dung 2 con tro (slow-fast) tim chinh giua, sau do tu chinh giua dung them con tro prev de reverse lai, roi dung start va prev de so sanh trai-phai
