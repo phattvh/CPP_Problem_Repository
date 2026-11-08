@@ -1,3 +1,7 @@
+//Author: Phat Tran
+//All my info: https://phattvh.is-not-a.dev
+
+
 class MyHashMap {
 private:
     static const int bsize = 697;
