@@ -48,7 +48,7 @@ public:
 
 //do day~ so' dao? nguoc. nen^ phong cach' giong' dat. phep' cong. va` tinh' bang` tay
 
-//1. Neu con l1 hoac l2, cong don val vao carry va dich node = node->next
+//1. Neu con l1 hoac l2, cong val vao carry
 //2. Do tong <= 19 nen ta co:
 //      Neu carry >= 10: Tao node moi voi (carry - 10), giu carry = 1 cho vong sau
 //      Neu carry < 10: Tao node moi voi carry, reset carry = 0
